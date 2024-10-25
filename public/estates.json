@@ -1,0 +1,123 @@
+[
+  {
+      
+    "id": 1,
+    "estate_title": "Warehouse Space",
+    "segment_name": "Commercial",
+    "description": "A large warehouse space suitable for storage or industrial purposes.",
+    "price": "$500,000",
+    "status": "Sale",
+    "area": "5000 sq ft",
+    "location": "Industrial Zone",
+    "facilities": ["Loading Docks", "High Ceilings", "Parking Area","Play Ground"],
+    "image_url": "https://i.ibb.co.com/zVr14y2/aaron-huber-s95o-B2n9jng-unsplash.jpg",
+    "view_property": "View Property"
+  },
+  {
+    "id": 2,
+    "estate_title": "Dayning Space",
+    "segment_name": "Residensial",
+    "description": "A large warehouse space suitable for storage or industrial purposes.",
+    "price": "$500/month",
+    "status": "Rent",
+    "area": "1000 sq ft",
+    "location": "Industrial Zone",
+    "facilities": ["Loading Docks", "High Ceilings", "Parking Area","Play Ground"],
+    "image_url": "https://i.ibb.co.com/BTWB9fw/kenny-eliason-kdwahp-WYf-Qo-unsplash.jpg",
+    "view_property": "View Property"
+  },
+  {
+    "id": 3,
+    "estate_title": "Warehouse Space",
+    "segment_name": "Commercial",
+    "description": "A large warehouse space suitable for storage or industrial purposes.",
+    "price": "$1500/month",
+    "status": "Rent",
+    "area": "5000 sq ft",
+    "location": "Industrial Zone",
+    "facilities": ["Loading Docks", "High Ceilings", "Parking Area","Play Ground"],
+    "image_url": "https://i.ibb.co.com/sq1v1JQ/francesca-tosolini-LL9-V0i-Mp-St-M-unsplash.jpg",
+    "view_property": "View Property"
+  },
+
+    {
+      "id": 4,
+      "estate_title": "Luxury Villa",
+      "segment_name": "Residential",
+      "description": "A luxurious villa located in the heart of the city, offering modern amenities.",
+      "price": "$400,000",
+      "status": "Sale",
+      "area": "3000 sq ft",
+      "location": "Downtown City",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Private Garden"],
+      "image_url": "https://i.ibb.co.com/JHwvVqv/francesca-tosolini-6jap-TIj-UQo-I-unsplash.jpg",
+      "view_property": "View Property"
+    },
+    {
+      "id": 5,
+      "estate_title": "Cozy Apartment",
+      "segment_name": "Residential",
+      "description": "A cozy apartment with a spacious balcony and well-maintained interiors.",
+      "price": "$1,500/month",
+      "status": "Rent",
+      "area": "1500 sq ft",
+      "location": "Uptown District",
+      "facilities": ["Living room", "Gym", "Kitchen","Private Garden"],
+      "image_url": "https://i.ibb.co.com/F4V4S13/slide-002.jpg",
+      "view_property": "View Property"
+    },
+    {
+      "id": 6,
+      "estate_title": "Office Space",
+      "segment_name": "Commercial",
+      "description": "A modern office space suitable for small businesses and startups.",
+      "price": "$2,000/month",
+      "status": "Rent",
+      "area": "2000 sq ft",
+      "location": "Business Park",
+      "facilities": ["Conference room", "High-speed internet", "Pantry","Cantine"],
+      "image_url": "https://i.ibb.co.com/dDtXxn0/slidet-003.jpg",
+      "view_property": "View Property"
+    },
+    {
+      "id": 7,
+      "estate_title": "Beachfront House",
+      "segment_name": "Residential",
+      "description": "A stunning beachfront house offering ocean views and direct access to the beach.",
+      "price": "$750,000",
+      "status": "Sale",
+      "area": "4000 sq ft",
+      "location": "Seaside Avenue",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Beach Access"],
+      "image_url": "https://i.ibb.co.com/JBrd0v9/slider-006.jpg",
+      "view_property": "View Property"
+    },
+    {
+      "id": 8,
+      "estate_title": "Penthouse Suite",
+      "segment_name": "Residential",
+      "description": "An exclusive penthouse suite with a rooftop terrace and panoramic city views.",
+      "price": "$2,500/month",
+      "status": "Rent",
+      "area": "3500 sq ft",
+      "location": "City Center",
+      "facilities": ["Living room", "Rooftop Terrace", "Kitchen", "Private Elevator"],
+      "image_url": "https://i.ibb.co.com/sy7tC20/francesca-tosolini-t-Hk-JAMc-O3-QE-unsplash.jpg",
+      "view_property": "View Property"
+    },
+    {
+      "id": 9,
+      "estate_title": "Warehouse Space",
+      "segment_name": "Commercial",
+      "description": "A large warehouse space suitable for storage or industrial purposes.",
+      "price": "$3,000/month",
+      "status": "Rent",
+      "area": "5000 sq ft",
+      "location": "Industrial Zone",
+      "facilities": ["Loading Docks", "High Ceilings", "Parking Area","Play Ground"],
+      "image_url": "https://i.ibb.co.com/WtxSL17/brian-babb-Xbw-Hrt87m-Q0-unsplash.jpg",
+      "view_property": "View Property"
+    }
+    
+  ]
+  
