@@ -14,10 +14,9 @@ const Home = () => {
                     <div className="max-w-md">
                         <h1 className="mb-5 text-5xl font-bold">Welcome to HomeNestHub</h1>
                         <p className="mb-5">
-                            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-                            quasi. In deleniti eaque aut repudiandae et a id nisi.
+                        Explore beautiful homes tailored to your lifestyle. Discover a range of residential options with detailed listings, virtual tours, and expert 
+                        guidance to help you find your perfect place.
                         </p>
-                        {/* <button className="btn btn-primary">Get Started</button> */}
                     </div>
                 </div>
             </div>
